@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SmartCylinders:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SCweb.war">
+      <element id="artifact" artifact-name="SmartCylinders:war exploded" />
+    </root>
+  </artifact>
+</component>
